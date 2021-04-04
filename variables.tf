@@ -15,7 +15,7 @@ variable "backend_client_secret" {
 }
 
 variable "tenant_id" {
-  dscription = "Tenant Id"
+  description = "Tenant Id"
 }
 
 variable "location" {
